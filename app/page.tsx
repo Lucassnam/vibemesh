@@ -176,10 +176,6 @@ function Hero() {
           </LiquidGlassButton>
         </div>
 
-        {/* Social proof */}
-        <p style={{ fontSize: '0.8125rem', color: 'rgba(255,255,255,0.48)', fontFamily: INTER }}>
-          200+ creators have shared their AI-built projects here
-        </p>
       </div>
 
       {/* Product mockup */}
